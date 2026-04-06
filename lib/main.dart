@@ -39,7 +39,7 @@ class HomeScreen extends StatelessWidget {
                   height: 70,
                   color: Colors.red,
                   alignment: Alignment.center,
-                  child: Text("21CSE999"), // Roll
+                  child: Text("22CSE006"), // Roll
                 ),
               ),
               Expanded(
@@ -47,7 +47,7 @@ class HomeScreen extends StatelessWidget {
                   height: 70,
                   color: Colors.green,
                   alignment: Alignment.center,
-                  child: Text("B+"), // Blood Group
+                  child: Text("O+"), // Blood Group
                 ),
               ),
               Expanded(
@@ -55,7 +55,7 @@ class HomeScreen extends StatelessWidget {
                   height: 70,
                   color: Colors.blue,
                   alignment: Alignment.center,
-                  child: Text("Dhaka"), // District
+                  child: Text("Khulna"), // District
                 ),
               ),
             ],
@@ -72,7 +72,7 @@ class HomeScreen extends StatelessWidget {
               borderRadius: BorderRadius.circular(20),
             ),
             alignment: Alignment.center,
-            child: Text("2020-000-99"), // Registration
+            child: Text("110-006-22"), // Registration
           ),
 
           Spacer(),
@@ -84,13 +84,13 @@ class HomeScreen extends StatelessWidget {
               Container(
                 margin: EdgeInsets.all(20),
                 height: 60,
-                width: 60,
+                width: 70,
                 decoration: BoxDecoration(
                   color: Colors.purple,
                   shape: BoxShape.circle,
                 ),
                 alignment: Alignment.center,
-                child: Text("Rio", style: TextStyle(color: Colors.white)),
+                child: Text("Bonna", style: TextStyle(color: Colors.white)),
               ),
             ],
           ),
